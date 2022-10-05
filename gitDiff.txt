@@ -1,2 +1,5 @@
 Learning to use git diff
 Use colors
+blue
+red
+violet
